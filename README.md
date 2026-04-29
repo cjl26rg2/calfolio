@@ -374,4 +374,4 @@ The `.cursor-nav` class (line 121–123) uses an inline SVG. To change colors, e
 
 ---
 
-Made with 💜
+Made with 💜 By Ayle
